@@ -182,8 +182,8 @@ p{
     font-weight: var(--font-w600);
 }
 .card-body .download-icon{
-    width: 30px;
-    height: 30px;
+    width: 1.5rem;
+    height: 1.5rem;
     margin-bottom: .3rem;
 }
 
